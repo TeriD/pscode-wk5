@@ -12,7 +12,7 @@ Step 6: Stop
 
 Step 1. Ask for user input, "Enter a number from 1 to 100."
 Step 2. Declare variable(x) to hold input
-Step 3. if x/2 = 2:
+Step 3. if x%2 = 2:
 	  print x, " is an even number."
 Step 4. else:
 	  print x, "is an odd number."
@@ -29,7 +29,7 @@ d) Write out the results found from steps b and c with a message describing what
 Step 1: Provide input method to capture user input of 5 numbers, "Enter 5 numbers."
 Step 2: Declare variables to hold inputs and average, min, max values.
 Step 3: Calculate sum = num1+num2+num3+num4+num5
-        Calculate average = sum/5
+        Calculate average = sum%5
 Step 4: Calculate the minimum number
       
 	IF num1 < num2 AND num1 < num3 AND num1 < num4 AND num1 < num5
