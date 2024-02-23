@@ -10,10 +10,11 @@ Step 6: Stop
 
 // Exercise 2: Check if a Number is Even or Odd
 
-Step 1. for x in range(1,100)
-Step 2. if x/2 == 0:
+Step 1. Ask for user input, "Enter a number from 1 to 100."
+Step 2. Declare variable(x) to hold input
+Step 3. if x/2 = 2:
 	  print x, " is an even number."
-Step 3. else:
+Step 4. else:
 	  print x, "is an odd number."
 
 // Exercise 3: 
